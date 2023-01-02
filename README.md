@@ -1,9 +1,20 @@
-<p align="center"><img src="/Images/harves"></p>                                                           
+<p align="center"><img src="/Images/harves.png"></p>                                                           
 
 
 ---
 
-## Harves (hɑːrvɪs) 
+# Table of Contents
+1. [Harves](#harves)
+2. [How to install](#how-to-install)
+3. [How to use](#how-to-use)
+
+
+---
+
+## Harves
+
+(hɑːrvɪs)
+
 Harves is an AI coded in python. If the name sounded familiar and reminded you of Jarvis from Marvel thats cause it was the inspiration for HARVES. 
 
 
@@ -17,7 +28,7 @@ Harves is an AI coded in python. If the name sounded familiar and reminded you o
 
 ---
 
-## How to use HARVES
+## How to use
 
 
 
